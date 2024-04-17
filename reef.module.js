@@ -1,4 +1,4 @@
-import styles from "./DsReefTest.module.css";
+import styles from "./reef.module.css";
 import { component, signal } from "reefjs";
 
 /**
