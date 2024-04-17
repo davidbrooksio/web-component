@@ -1,4 +1,4 @@
-import styles from "./MyComponent.module.scss";
+import styles from "./main.module.css";
 
 /**
  * Custom element representing a todo list component.
